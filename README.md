@@ -11,6 +11,7 @@ Step-by-step practice scenarios for beginners and advanced users.
 Resources for setting up Selenium Grid and handling cross-browser testing.
 
 Purpose:
+
 To enhance automation testing skills by implementing real-world scenarios and exploring Selenium's capabilities.
 
 
